@@ -1,0 +1,2 @@
+-- RysHub | https://ryshub.xyz
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/d99036815c1fa2c39d7d7e8ad292f970e50f9a80a576f0a09916a7638947b897/download"))()
